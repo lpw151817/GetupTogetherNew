@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="orderBg">#41a6c9</color>
+    <color name="orderPressBg">#0c6e93</color>
+    <color name="setBg">#444444</color>
+    <color name="setPressBg">#000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="white">#ffffff</color>
+    <color name="light_gray">#dcdcdc</color>
+    <color name="medium_gray">#a0a0a0</color>
+    <color name="dark_gray">#535353</color>
+    <color name="heavy_gray">#313131</color>
+    <color name="black">#000000</color>
+    <color name="beech_blue">#f0f9f8</color>
+    <color name="beech_red">#aa0000</color>
+    <color name="let_blue">#4a9af8</color>
+    <color name="let_green">#a6ca84</color>
+    <color name="let_red">#ed6a7a</color>
+    <color name="let_gray">#757575</color>
+    <color name="transparent">#00000000</color>
+    <color name="btn_selected">#4abce6</color>
+    <color name="menu_normal">#009abc</color>
+    <color name="menu_pressed">#087ca7</color>
+
+</resources>
